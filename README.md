@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Palav-savani
+# Hello, I'm Palav Savani 👋
 
-<!---
-Pallav-savani/Pallav-savani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Welcome to my GitHub profile! I'm a passionate web developer and lifelong learner. 
+
+- Here, you'll find my latest projects, contributions, and everything I'm working on.

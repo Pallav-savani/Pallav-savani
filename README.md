@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pallav-savani
+- 👋 Hi, I’m @Palav-savani
 
 <!---
 Pallav-savani/Pallav-savani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
